@@ -1,0 +1,5 @@
+.venv
+.lingma
+download/
+temp/
+download.http
