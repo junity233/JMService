@@ -1,0 +1,5 @@
+dir_rule:
+  base_dir: ./temp/
+  rule: Bd/Aid/Palbum_index
+
+log: false
